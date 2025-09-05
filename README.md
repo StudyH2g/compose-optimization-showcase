@@ -1,6 +1,6 @@
 # Jetpack Compose 重组优化 Demo
 
-这是一个用于演示 Jetpack Compose 重组优化策略的 Demo 项目，配套文章《Jetpack Compose重组优化：xxx》。
+这是一个用于演示 Jetpack Compose 重组优化策略的 Demo 项目，配套文章《[Jetpack Compose重组优化：机制剖析与性能提升策略](https://juejin.cn/post/7546118702807842866)》。
 
 ## 核心原理
 
